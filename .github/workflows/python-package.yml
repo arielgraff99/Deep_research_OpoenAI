@@ -39,5 +39,10 @@ jobs:
       run: |
         pytest
 
+export OPENAI_API_KEY='Your OpenAI API Key'
+
+export TAVILY_API_KEY='Your Tavily API Key'
+
+
         
         
